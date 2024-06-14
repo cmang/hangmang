@@ -1,4 +1,5 @@
-# Hangmang! by Sam Foster. 2022
+# Hangmang!
+by Sam Foster. 2022
 
 ## INSTRUCTIONS:
 
